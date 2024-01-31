@@ -74,6 +74,7 @@ import java.util.Scanner;
         }
 
         public static String LlegirString(String s, int i, int i1) {
+            return s;
         }
 
 // </editor-fold>
